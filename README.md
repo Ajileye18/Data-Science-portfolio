@@ -19,11 +19,12 @@ I am an Agricultural and Environmental Engineering graduate with a strong intere
 📗Excel
 
 📂 Projects
-1. 📈 Predicting Employees Productivity Using DecisionTreeClassifier ML Algorithm
+1. 📈 Predicting Employees' Productivity Using DecisionTreeClassifier ML Algorithm
 
 Description: In this Machine Learning Project, a Decision Tree Classifier model was used to predict the productivity of employees in a Garment production company.
 Tools: Python, Pandas, Scikit-Learn, Matplotlib
-Key Skills: Data Cleaning, Modeling, Visualization, ML training and testing
+Key Skills: Data Cleaning, Modeling, Visualization, ML training, and testing
+Visit the project here: ML_Predicting_employee_productivity.ipynb
 
 ## Goals of This Repository
 Showcase Machine Learning projects
