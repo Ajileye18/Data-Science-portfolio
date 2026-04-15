@@ -33,13 +33,13 @@ Key Skills: Data Cleaning, Modeling, Visualization, ML training, and testing
 Visit the project here: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Crop%20Yield%20ML%20LinearRegression.ipynb
 
 ## Goals of This Repository
-Showcase Machine Learning projects
-Demonstrate Data Analysis skills
-Build a professional portfolio
-Share learning journey
+> Showcase Machine Learning projects
+> Demonstrate Data Analysis skills
+> Build a professional portfolio
+> Share learning journey
 📬 Contact
-Email: blessing.ajileye18@gmail.com
-LinkedIn: https://www.linkedin.com/in/ajileye18/
+Email: blessing.ajileye18@gmail.com | 
+LinkedIn: https://www.linkedin.com/in/ajileye18/ | 
 GitHub: https://github.com/Ajileye18
 
 #### ⭐ If you find this repository helpful, feel free to star it!
