@@ -27,6 +27,9 @@ Key Skills: Data Cleaning, Modeling, Visualization, ML training, and testing
 
 Visit the project here: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/ML_Predicting_employee_productivity.ipynb
 
+2. Description: In this Machine Learning Project, a Linear Regression model was used to predict the crop yield of a farmland.
+Tools: Python, Pandas, Scikit-Learn, Matplotlib
+Key Skills: Data Cleaning, Modeling, Visualization, ML training, and testing
 
 ## Goals of This Repository
 Showcase Machine Learning projects
