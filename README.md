@@ -30,6 +30,7 @@ Visit the project here: https://github.com/Ajileye18/Data-Science-portfolio/blob
 2. Description: In this Machine Learning Project, a Linear Regression model was used to predict the crop yield of a farmland.
 Tools: Python, Pandas, Scikit-Learn, Matplotlib
 Key Skills: Data Cleaning, Modeling, Visualization, ML training, and testing
+Visit the project here: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Crop%20Yield%20ML%20LinearRegression.ipynb
 
 ## Goals of This Repository
 Showcase Machine Learning projects
