@@ -42,6 +42,7 @@ Description: In this Machine Learning Project, a RandomForestClassifier was used
 Tools: Python, Pandas, Scikit-Learn, Matplotlib
 Key Skills: Data Cleaning, Modeling, Visualization, ML training, and testing
 Visit the project here: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Rainfall_Prediction_ML.ipynb
+https://github.com/Ajileye18/Data-Science-portfolio/blob/main/rainfall_prediction_model.pkl
 
 
 ## Goals of This Repository
