@@ -32,6 +32,11 @@ Tools: Python, Pandas, Scikit-Learn, Matplotlib
 Key Skills: Data Cleaning, Modeling, Visualization, ML training, and testing
 Visit the project here: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Crop%20Yield%20ML%20LinearRegression.ipynb
 
+3. Description: In this Machine Learning Project, a RandomForestClassifier was used to predict the probability of Rainfall.
+Tools: Python, Pandas, Scikit-Learn, Matplotlib
+Key Skills: Data Cleaning, Modeling, Visualization, ML training, and testing
+Visit the project here: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Rainfall_Prediction_ML.ipynb
+
 ## Goals of This Repository
 > Showcase Machine Learning projects
 > Demonstrate Data Analysis skills
