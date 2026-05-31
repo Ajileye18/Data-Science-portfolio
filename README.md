@@ -47,7 +47,7 @@ https://github.com/Ajileye18/Data-Science-portfolio/blob/main/rainfall_predictio
 4. Diabetes Prediction
 Description: In this Machine Learning Project, Linear Regression, Lasso Regression, Ridge Regression, and ElasticNet Regression were used to predict the probability of a patient having diabetes using relevant health parameters.
 Tools: Python, Pandas, Scikit-Learn, Matplotlib
-Key Skills: Data Cleaning, Modeling, Visualization, ML training, and testing
+Key Skills: Data Cleaning, Modeling, Visualization, ML training, and testing.
 Project link: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Diabetes%20ML.ipynb
 
 ## Goals of This Repository
@@ -55,7 +55,7 @@ Project link: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Diab
 > Demonstrate Data Analysis skills
 > Build a professional portfolio
 > Share learning journey
-📬 Contact
+📬 Contacts
 Email: blessing.ajileye18@gmail.com | 
 LinkedIn: https://www.linkedin.com/in/ajileye18/ | 
 GitHub: https://github.com/Ajileye18
