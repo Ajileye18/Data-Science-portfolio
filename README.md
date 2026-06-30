@@ -57,7 +57,7 @@ Description: Large Business owners are concerned about the spending habits of th
 
 Tools: Python, Microsoft Excel, Scikit-Learn, KMeans, StandardScaler, Logarithm Transformation, Seaborn, Matplotlib
 Skills: Exploratory Data Analysis, visualization, Data Scaling, Data Transformation.
-Project link: 
+Project link: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Mall_customer_segmentation%20UnsupervisedLearning.ipynb
 
 6.📈 Mall Customer Segmentation
 
