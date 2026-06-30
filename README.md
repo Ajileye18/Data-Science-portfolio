@@ -65,7 +65,7 @@ Description: Large Business owners are concerned about the spending habits of th
 
 Tools: Python, Microsoft Excel, Scikit-Learn, KMeans, StandardScaler, Logarithm Transformation, Seaborn, Matplotlib
 Skills: Exploratory Data Analysis, visualization, Data Scaling, Data Transformation.
-Project link:
+Project link: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Wholesale_customers_segmentation%20UnsupervisedLearning.ipynb
 
 ## Goals of This Repository
 > Showcase Machine Learning projects
