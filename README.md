@@ -44,11 +44,28 @@ Key Skills: Data Cleaning, Modeling, Visualization, ML training, and testing
 Visit the project here: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Rainfall_Prediction_ML.ipynb
 https://github.com/Ajileye18/Data-Science-portfolio/blob/main/rainfall_prediction_model.pkl
 
-4. Diabetes Prediction
+4. 📈 Diabetes Prediction
+   
 Description: In this Machine Learning Project, Linear Regression, Lasso Regression, Ridge Regression, and ElasticNet Regression were used to predict the probability of a patient having diabetes using relevant health parameters.
 Tools: Python, Pandas, Scikit-Learn, Matplotlib
 Key Skills: Data Cleaning, Modeling, Visualization, ML training, and testing.
 Project link: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Diabetes%20ML.ipynb
+
+5.📈 Mall Customer Segmentation
+
+Description: Large Business owners are concerned about the spending habits of their customers, which helps companies/businesses to target the right customers with ads and promotions. In this Mall Customer Segmentation project, I dived into the Unsupervised Learning Algorithm, and used KMeans Clusters to segment the customers. This will help business owners to make informed decisions about their customers and know the right promotions and ads for the different clusters of customers.
+
+Tools: Python, Microsoft Excel, Scikit-Learn, KMeans, StandardScaler, Logarithm Transformation, Seaborn, Matplotlib
+Skills: Exploratory Data Analysis, visualization, Data Scaling, Data Transformation.
+Project link: 
+
+6.📈 Mall Customer Segmentation
+
+Description: Large Business owners are concerned about the spending habits of their customers, which helps companies/businesses to target the right customers with ads and promotions. In this Mall Customer Segmentation project, I dived into the Unsupervised Learning Algorithm, and used KMeans Clusters to segment the customers. This will help business owners to make informed decisions about their customers and know the right promotions and ads for the different clusters of customers.
+
+Tools: Python, Microsoft Excel, Scikit-Learn, KMeans, StandardScaler, Logarithm Transformation, Seaborn, Matplotlib
+Skills: Exploratory Data Analysis, visualization, Data Scaling, Data Transformation.
+Project link:
 
 ## Goals of This Repository
 > Showcase Machine Learning projects
