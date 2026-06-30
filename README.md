@@ -59,7 +59,7 @@ Tools: Python, Microsoft Excel, Scikit-Learn, KMeans, StandardScaler, Logarithm 
 Skills: Exploratory Data Analysis, visualization, Data Scaling, Data Transformation.
 Project link: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Mall_customer_segmentation%20UnsupervisedLearning.ipynb
 
-6.📈 Mall Customer Segmentation
+6.📈 Wholesale Customer Segmentation
 
 Description: Large Business owners are concerned about the spending habits of their customers, which helps companies/businesses to target the right customers with ads and promotions. In this Mall Customer Segmentation project, I dived into the Unsupervised Learning Algorithm, and used KMeans Clusters to segment the customers. This will help business owners to make informed decisions about their customers and know the right promotions and ads for the different clusters of customers.
 
