@@ -61,6 +61,10 @@ Project link: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Mall
 
 Description: Large Business owners are concerned about the spending habits of their customers, which helps companies/businesses to target the right customers with ads and promotions. In this Mall Customer Segmentation project, I dived into the Unsupervised Learning Algorithm, and used KMeans Clusters to segment the customers. This will help business owners make informed decisions about their customers and identify the right promotions and ads for different customer clusters.
 
+Tools: Python, Microsoft Excel, Scikit-Learn, KMeans, StandardScaler, Logarithm Transformation, Seaborn, Matplotlib
+Skills: Exploratory Data Analysis, visualization, Data Scaling, Data Transformation.
+Project link:
+
 7.📈  Online Retail Customer Segmentation
 
 Description: In this online retail customers segmentation project, I used my knowledge of Unsupervised Machine Learning to cluster the customers of an Online retail outlet using Recency, Frequency, and Monetary. The K-Means clustering was used to cluster the customers based on how recently they purchased from the outlet, the frequency of their purchases, and the amount of money spent. The average of RFM was used. This RFM clustering helps business owners identify VIP customers and those who have churned or are likely to churn.
@@ -69,7 +73,7 @@ Tools: Python, Microsoft Excel, Scikit-Learn, KMeans, StandardScaler, Logarithm 
 Skills: Exploratory Data Analysis, visualization, Data Scaling, Data Transformation.
 Project link: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Online_Retail%20Clustering%20UnsupervisedLearning.ipynb
 
-8. Spotify Clustering
+8. 📈 Spotify Clustering
 Description: In this clustering project, songs on Spotify were grouped using the K-Means algorithm. By applying the Elbow Method, the optimal number of clusters was determined.
 
 Tools: Python, Microsoft Excel, Scikit-Learn, KMeans, StandardScaler, Tableau, Seaborn, Matplotlib
