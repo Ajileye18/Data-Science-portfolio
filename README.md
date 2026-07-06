@@ -69,6 +69,13 @@ Tools: Python, Microsoft Excel, Scikit-Learn, KMeans, StandardScaler, Logarithm 
 Skills: Exploratory Data Analysis, visualization, Data Scaling, Data Transformation.
 Project link: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Online_Retail%20Clustering%20UnsupervisedLearning.ipynb
 
+8. Spotify Clustering
+Description: In this clustering project, songs on Spotify were grouped using the K-Means algorithm. By applying the Elbow Method, the optimal number of clusters was determined.
+
+Tools: Python, Microsoft Excel, Scikit-Learn, KMeans, StandardScaler, Tableau, Seaborn, Matplotlib
+Skills: Exploratory Data Analysis, visualization, Data Scaling, Data Transformation Business Insight.
+Project link: https://github.com/Ajileye18/Data-Science-portfolio/blob/main/Spotify%20Clustering.ipynb
+
 ## Goals of This Repository
 > Showcase Machine Learning projects
 > Demonstrate Data Analysis skills
